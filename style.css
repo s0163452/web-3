@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    background-color: darkcyan;
+}
+
+form
+{
+    background-color: chocolate;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    border: 1px solid rgb(131, 13, 13);
+    box-shadow: 76px 1px 17px -16px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 76px 1px 17px -16px rgba(0,0,0,0.59);
+    -moz-box-shadow: 76px 1px 17px -16px rgba(0,0,0,0.59);
+}
